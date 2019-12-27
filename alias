@@ -1,0 +1,26 @@
+alias 000='chmod 000'
+alias 700='chmod 700'
+alias 755='chmod 755'
+alias 777='chmod 777'
+
+alias lk='ls -lSr'
+alias lc='ls -lcr'
+alias lu='ls -lur'
+alias lr='ls -lR'
+alias lt='ls -ltr'
+alias lm='ls -al | more'
+alias la='ls -AF'
+alias ll='ls -lFh'
+
+alias .='cd'
+alias ..='cd ..'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias .....='cd ../../../../'
+alias ......='cd ../../../../../'
+
+alias c='clear'
+alias more='less'
+alias g='git'
+alias s='source'
+
